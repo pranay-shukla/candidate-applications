@@ -1,0 +1,11 @@
+*{
+  /* background-color: black;
+  color: white; */
+
+  --card-body-border-color: #8b8b8b;
+  --company-info-color: #8b8b8b;
+  --salary-color: rgb(77, 89, 106);
+}
+p {
+  margin-bottom: 0rem!important;
+}
