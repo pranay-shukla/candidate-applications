@@ -12,4 +12,6 @@ step -2 : To run the Project Locally (run the following command in the project d
 
 step-3 : on the browser surf to http://localhost:5173/
 
-![](https://github.com/pranay-shukla/candidate-applications/blob/main/capDemo.gif)
+![](https://drive.google.com/file/d/1u5JL56qbfc8byg4KMYAZpdFTJdPni47D/view?usp=sharing)
+
+![](https://drive.google.com/file/d/1wPP8mvFrCj5nMjSqp1VJAeT9GvssR2q7/view?usp=sharing)
