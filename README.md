@@ -12,7 +12,7 @@ step -2 : To run the Project Locally (run the following command in the project d
 
 step-3 : on the browser surf to http://localhost:5173/
 
-![](https://drive.google.com/uc?export=view&id=1v6y5oyBD7ZB-xG-TBGogazVOV2irWUMF)
+![](https://imgur.com/a/pLCwtAD)
 
 ![](https://drive.google.com/uc?export=view&id=1u5JL56qbfc8byg4KMYAZpdFTJdPni47D)
 
