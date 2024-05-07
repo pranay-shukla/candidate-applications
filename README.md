@@ -12,6 +12,6 @@ step -2 : To run the Project Locally (run the following command in the project d
 
 step-3 : on the browser surf to http://localhost:5173/
 
-![GIF](https://drive.google.com/file/d/1u5JL56qbfc8byg4KMYAZpdFTJdPni47D/view?usp=sharing)
+![Download GIF](https://drive.google.com/file/d/1u5JL56qbfc8byg4KMYAZpdFTJdPni47D/view?usp=sharing)
 
-![Sample Image](https://drive.google.com/file/d/1wPP8mvFrCj5nMjSqp1VJAeT9GvssR2q7/view?usp=sharing)
+![Download Image](https://drive.google.com/file/d/1wPP8mvFrCj5nMjSqp1VJAeT9GvssR2q7/view?usp=sharing)
