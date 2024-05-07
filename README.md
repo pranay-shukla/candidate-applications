@@ -7,3 +7,5 @@ npm i
 step -2 : To run the Project Locally (run the following command in the project directory )
 npm run dev
 step-3 : on the browser surf to http://localhost:5173/
+
+![](https://github.com/pranay-shukla/candidate-applications/blob/main/capDemo.gif)
